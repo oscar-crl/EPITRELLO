@@ -1,6 +1,7 @@
 # EPITRELLO
- Epitrello is a clone of Trello
- This is only the backend of the project
+ Epitrello is a clone of Trello.
+ 
+ This is only the backend of the project.
 
 ## Usage
  ```
