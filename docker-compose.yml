@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  # Server / API - Spring Boot
+  server:
+    restart: always
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
